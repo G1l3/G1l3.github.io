@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<chanel>
+		<item>
+			<tittle>Vrste materijala</tittle>
+			<link>https://g1l3.github.io/vrste_materijala.html</link>
+			<description>Vrste materijala od kojih pravimo lazy bag-ove!</description>
+		</item>
+		<item>
+			<tittle>Modeli!</tittle>
+			<link>https://g1l3.github.io/modeli.html</link>
+			<description>Pogledajte neke od naših modela!</description>
+		</item>
+		<item>
+			<tittle>Naručite!</tittle>
+			<link>https://g1l3.github.io/naruci.html</link>
+			<description>Naručite brzo i lako!</description>
+		</item>
+		<item>
+			<tittle>Informacije!</tittle>
+			<link>https://g1l3.github.io/informacije.html</link>
+			<description>Opšte stvari o nama!</description>
+		</item>
+	</chanel>
+</rss>
