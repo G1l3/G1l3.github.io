@@ -134,7 +134,7 @@ hr{
 	color:#d60c0c;
 }
 
-/*---Sadrzaj index.html--*/
+
 
 #banerSlika img{
 	display:block;
@@ -166,9 +166,9 @@ hr{
 	color:#ffa500;
 }
 
-/*----Kraj sadrzaja index.html----*/
 
-/*---Sadrzaj vrste_materijala.html--*/
+
+
 .sadrzaj{
 	width:950px;
 	margin:0px auto;
@@ -232,9 +232,9 @@ hr{
 	font-size:18px;
 }
 
-/*---Kraj sadrzaja vrste_materijala.html--*/
 
-/*---Sadrzaj naruci.html----*/
+
+
 #naruci form{
 	margin:0px auto;
 	margin-bottom:20px;
@@ -281,9 +281,9 @@ hr{
 	color:#ffa500;
 	border:2px solid #ffa500;
 }
-/*---Kraj sadrzaja naruci.html----*/
 
-/*---Sadrzaj informacije.html----*/
+
+
 #informacije form{
 	margin:0px auto;
 	margin-bottom:20px;
@@ -325,9 +325,9 @@ hr{
 	color:#fff;
 }
 
-/*---Kraj sadrzaja informacije.html----*/
 
-/*---Sadrzaj autor.html----*/
+
+
 #autorGore, #autorSredina{
 	width:900px;
 	margin:20px auto;
@@ -358,8 +358,8 @@ hr{
 	text-align:left;
 	color:#ffa500;
 }
-/*---Kraj sadrzaja autor.html----*/
-/*---Sadrzaj modeli.html----*/
+
+
 #Modeli{
 	width:1000px;
 	margin:20px auto;
@@ -383,5 +383,5 @@ hr{
 	margin-right:auto;
 }
 
-/*---Kraj sadrzaja modeli.html----*/
+
 
